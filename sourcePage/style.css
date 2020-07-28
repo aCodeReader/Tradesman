@@ -1,0 +1,16 @@
+body{
+    border: 2px black solid
+}
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+}
+h1{color: white;
+    background-image: url(http://www.sourceelectric.com/image/44468024.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 200px;
+    width: 500px}
